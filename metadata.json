@@ -1,0 +1,12 @@
+{
+    "title": "Pitou NFT",
+    "description": "My first NFT",
+    "image": "ipfs://QmZvf8EKQVUR46X8VoRkf4CNFVv7iUVuBNfo1z5weK1Xap",
+    "attributes": [
+        {
+            "trait_type": "style",
+            "value": "Japanese style"
+        }
+    ],
+    "version": "1.0.0"
+}
