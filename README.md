@@ -28,6 +28,6 @@ NFT实现原理：
 
 
 
-## 参考B站仁科UP的视频
+## 参考B站UP仁科的视频
 
 https://www.bilibili.com/video/BV1jGkZYuERg
